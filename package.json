@@ -1,0 +1,24 @@
+{
+  "name": "rest-api-nodejs-express",
+  "version": "0.0.1",
+  "description": "REST API con el framework Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "express",
+    "server",
+    "node"
+  ],
+  "author": "JohnDoe",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.7"
+  }
+}

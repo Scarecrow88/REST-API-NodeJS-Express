@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Nude Nuns with Big Guns",
+        "genre":"Action|Comedy",
+        "year":2005
+    },
+    {
+        "id":2,
+        "name":"War of the Buttons",
+        "genre":"Adventure|Children|Drama",
+        "year":2004
+    },
+    {
+        "id":3,
+        "name":"Education of Little Tree, The",
+        "genre":"Drama",
+        "year":2009
+    },
+    {
+        "id":4,
+        "name":"Tale of Two Sisters, A (Janghwa, Hongryeon)",
+        "genre":"Drama|Horror|Mystery|Thriller",
+        "year":2003
+    },
+    {
+        "id":5,
+        "name":"Won't Anybody Listen?",
+        "genre":"Documentary",
+        "year":1987
+    }
+]
